@@ -15,19 +15,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "SSUET-Official-Logo-final.jpg",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "SSUET-Official-Logo-final.jpg",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "SSUET-Official-Logo-final.jpg",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "SSUET-Official-Logo-final.jpg",
   },
 }
 
